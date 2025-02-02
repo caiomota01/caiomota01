@@ -15,6 +15,11 @@ if __name__ == '__main__':
     me = CaioMota()
 ```
 
+| My Passion                   | Image                       |
+|-----------------------------|-----------------------------|
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut lacus accumsan, sollicitudin lorem sed, fringilla quam. Ut convallis mollis mi et aliquet. Quisque laoreet tellus sed lorem aliquet sollicitudin efficitur in ante. Phasellus porta arcu at arcu ornare maximus. Mauris interdum lacus elit, sit amet scelerisque enim placerat sed. Aliquam scelerisque massa dui, nec dictum nisl ullamcorper a. Etiam et facilisis elit. Proin sed consequat metus. Suspendisse mollis ex vitae tempor dapibus. In dignissim massa eget suscipit accumsan. Phasellus nec eros ac sapien pharetra blandit eu a ante. Nulla iaculis turpis sed rhoncus dapibus. Vivamus sodales sagittis ultricies. | <img src="https://github.com/user-attachments/assets/aacba47b-70ee-4232-9d29-9aa3b6183e94" width="1000"/> |
+
+
 ### <img src="https://media.giphy.com/media/htvPpsP0fEFhTv7HHT/giphy.gif?cid=ecf05e477cvtltlhxlr68mzv72lmnyon5m3fs03t0upjaoul&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"> <strong>Connect with me</strong>
 
 <div align="left">
