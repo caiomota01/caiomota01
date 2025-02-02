@@ -24,9 +24,7 @@ if __name__ == '__main__':
   <a href="https://www.instagram.com/caiomota?igsh=NGo3emNzcDd4Ynl5&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="http://api.whatsapp.com/send?phone=5511987308581" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=55ce61&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
+  
 </div>
 
 ## 
