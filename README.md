@@ -5,7 +5,7 @@ class CaioMota():
     
   def __init__(self):
     self.name = "Caio Mota";
-    self.age = "";
+    self.age = "18";
     self.location = "São Paulo, Brazil";
   
   def __str__(self):
@@ -15,10 +15,17 @@ if __name__ == '__main__':
     me = CaioMota()
 ```
 
-| My Passion                   | Image                       |
+| Atleta Profissional         | Imagem                      |
 |-----------------------------|-----------------------------|
-| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut lacus accumsan, sollicitudin lorem sed, fringilla quam. Ut convallis mollis mi et aliquet. Quisque laoreet tellus sed lorem aliquet sollicitudin efficitur in ante. Phasellus porta arcu at arcu ornare maximus. Mauris interdum lacus elit, sit amet scelerisque enim placerat sed. Aliquam scelerisque massa dui, nec dictum nisl ullamcorper a. Etiam et facilisis elit. Proin sed consequat metus. Suspendisse mollis ex vitae tempor dapibus. In dignissim massa eget suscipit accumsan. Phasellus nec eros ac sapien pharetra blandit eu a ante. Nulla iaculis turpis sed rhoncus dapibus. Vivamus sodales sagittis ultricies. | <img src="https://github.com/user-attachments/assets/aacba47b-70ee-4232-9d29-9aa3b6183e94" width="1000"/> |
+| Fui piloto de kart profissional, viajei o Brasil inteiro para diversas corridas, como Brasileiros, Copa do Brasil e Estaduais. O Kart na minha vida foi um grande fator de aprendizado e amadurecimento profissional. Um esporte incrível, que me ensinou muito sobre trabalho em equipe, trabalho individual, competitividade, respeito e auto-performance. Além de me ensinar a agir  friamente e consciente mesmo com muita pressão. E agora sou coach de pilotos iniciantes, ajudando eles a melhorarem suas performances. | <img src="https://github.com/user-attachments/assets/169f8292-b955-4b47-95bd-30da2639773c" width="1000"/> |
 
+| Sedento por dinheiro        | Imagem                      |
+|-----------------------------|-----------------------------|
+| Comecei a me apaixonar pelo mundo das finanças quando comecei a trabalhar na parte financeira da empresa dos meus pais aos 13 anos, desde então isso mudou meu mindset, me ensinou muito sobre questões financeiras. Hoje enxergo o futuro das finanças em Criptos e Blockhains, por isso penso e estudo muito sobre essa área. | <img src="https://github.com/user-attachments/assets/072c645f-3710-481c-8c81-74e9cf385b0f" width="1000"/> |
+
+| Uma paixão pelo Agro        | Imagem                      |
+|-----------------------------|-----------------------------|
+| Meus pais são Mineiros então sempre íamos visitar os parentes no interior e pra mim não havia nada melhor. O Agro é o que sustenta boa parte desse país, e eu tenho certeza que tem a muito a evoluir com a tecnologia. Agricultura de precisão e sustentabilidade são temas que me interessam e onde vejo muito potencial tecnológico para o futuro. | <img src="https://github.com/user-attachments/assets/110614c2-8ebb-4191-a491-9acb18941d79" width="1000"/> |
 
 ### <img src="https://media.giphy.com/media/htvPpsP0fEFhTv7HHT/giphy.gif?cid=ecf05e477cvtltlhxlr68mzv72lmnyon5m3fs03t0upjaoul&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"> <strong>Connect with me</strong>
 
