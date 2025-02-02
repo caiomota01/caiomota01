@@ -21,11 +21,11 @@ if __name__ == '__main__':
 
 | Sedento por dinheiro        | Imagem                      |
 |-----------------------------|-----------------------------|
-| Comecei a me apaixonar pelo mundo das finanças quando comecei a trabalhar na parte financeira da empresa dos meus pais aos 13 anos, desde então isso mudou meu mindset, me ensinou muito sobre questões financeiras. Hoje enxergo o futuro das finanças em Criptos e Blockhains, por isso penso e estudo muito sobre essa área. | <img src="https://github.com/user-attachments/assets/072c645f-3710-481c-8c81-74e9cf385b0f" width="1000"/> |
+| Comecei a me apaixonar pelo mundo das finanças quando comecei a trabalhar na parte financeira da empresa dos meus pais aos 13 anos, desde então isso mudou meu mindset, me ensinou muito sobre questões financeiras. Hoje enxergo o futuro das finanças em Criptos e Blockhains, por isso penso e estudo muito sobre essa área. | <img src="https://github.com/user-attachments/assets/072c645f-3710-481c-8c81-74e9cf385b0f" width="650"/> |
 
 | Uma paixão pelo Agro        | Imagem                      |
 |-----------------------------|-----------------------------|
-| Meus pais são Mineiros então sempre íamos visitar os parentes no interior e pra mim não havia nada melhor. O Agro é o que sustenta boa parte desse país, e eu tenho certeza que tem a muito a evoluir com a tecnologia. Agricultura de precisão e sustentabilidade são temas que me interessam e onde vejo muito potencial tecnológico para o futuro. | <img src="https://github.com/user-attachments/assets/110614c2-8ebb-4191-a491-9acb18941d79" width="1000"/> |
+| Meus pais são Mineiros então sempre íamos visitar os parentes no interior e pra mim não havia nada melhor. O Agro é o que sustenta boa parte desse país, e eu tenho certeza que tem a muito a evoluir com a tecnologia. Agricultura de precisão e sustentabilidade são temas que me interessam e onde vejo muito potencial tecnológico para o futuro. | <img src="https://github.com/user-attachments/assets/110614c2-8ebb-4191-a491-9acb18941d79" width="675"/> |
 
 ### <img src="https://media.giphy.com/media/htvPpsP0fEFhTv7HHT/giphy.gif?cid=ecf05e477cvtltlhxlr68mzv72lmnyon5m3fs03t0upjaoul&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"> <strong>Connect with me</strong>
 
