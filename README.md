@@ -39,7 +39,7 @@ if __name__ == '__main__':
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> <strong>I code with</strong>
 
 <div align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=js,html"/>
+  <img height="40" src="https://skillicons.dev/icons?i=css"/>
 </div>
 
 
@@ -48,6 +48,22 @@ if __name__ == '__main__':
 <div align="left">
   <img height="40" src="https://skillicons.dev/icons?i=github"/>
 </div>
+
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhlZDZ5MW5oMHI3cTRuYnN0MWFhd3lsbW5lNzRjdG9lZW5mZDNwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width ="20"> <strong>GitHub status</strong>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caiomota01&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <a href="https://github.com/caiomota01">
+    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomota01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="caiomota01"/>-->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiomota01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="caiomota01"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/caiomota01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiomota01&&theme=tokyonight" alt="caiomota01" />
+  </a>
+</p>
 
 ##
 
