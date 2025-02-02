@@ -15,31 +15,33 @@ if __name__ == '__main__':
     me = CaioMota()
 ```
 
+### <img src="https://media.giphy.com/media/htvPpsP0fEFhTv7HHT/giphy.gif?cid=ecf05e477cvtltlhxlr68mzv72lmnyon5m3fs03t0upjaoul&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"> <strong>Connect with me</strong>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/caio-mota-78983732a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/caiomota?igsh=NGo3emNzcDd4Ynl5&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="http://api.whatsapp.com/send?phone=5511987308581" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=55ce61&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+## 
+
 | Atleta Profissional         | Imagem                      |
 |-----------------------------|-----------------------------|
 | Fui piloto de kart profissional, viajei o Brasil inteiro para diversas corridas, como Brasileiros, Copa do Brasil e Estaduais. O Kart na minha vida foi um grande fator de aprendizado e amadurecimento profissional. Um esporte incrível, que me ensinou muito sobre trabalho em equipe, trabalho individual, competitividade, respeito e auto-performance. Além de me ensinar a agir  friamente e consciente mesmo com muita pressão. E agora sou coach de pilotos iniciantes, ajudando eles a melhorarem suas performances. | <img src="https://github.com/user-attachments/assets/169f8292-b955-4b47-95bd-30da2639773c" width="1000"/> |
 
 | Sedento por dinheiro        | Imagem                      |
 |-----------------------------|-----------------------------|
-| Comecei a me apaixonar pelo mundo das finanças quando comecei a trabalhar na parte financeira da empresa dos meus pais aos 13 anos, desde então isso mudou meu mindset, me ensinou muito sobre questões financeiras. Hoje enxergo o futuro das finanças em Criptos e Blockhains, por isso penso e estudo muito sobre essa área. | <img src="https://github.com/user-attachments/assets/072c645f-3710-481c-8c81-74e9cf385b0f" width="650"/> |
+| Comecei a me apaixonar pelo mundo das finanças quando comecei a trabalhar na parte financeira da empresa dos meus pais aos 13 anos, desde então isso mudou meu mindset, me ensinou muito sobre questões financeiras. Hoje enxergo o futuro das finanças em Criptos e Blockhains, por isso penso e estudo muito sobre essa área. | <img src="https://github.com/user-attachments/assets/072c645f-3710-481c-8c81-74e9cf385b0f" width="1000"/> |
 
 | Uma paixão pelo Agro        | Imagem                      |
 |-----------------------------|-----------------------------|
-| Meus pais são Mineiros então sempre íamos visitar os parentes no interior e pra mim não havia nada melhor. O Agro é o que sustenta boa parte desse país, e eu tenho certeza que tem a muito a evoluir com a tecnologia. Agricultura de precisão e sustentabilidade são temas que me interessam e onde vejo muito potencial tecnológico para o futuro. | <img src="https://github.com/user-attachments/assets/110614c2-8ebb-4191-a491-9acb18941d79" width="675"/> |
-
-### <img src="https://media.giphy.com/media/htvPpsP0fEFhTv7HHT/giphy.gif?cid=ecf05e477cvtltlhxlr68mzv72lmnyon5m3fs03t0upjaoul&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="25"> <strong>Connect with me</strong>
-
-<div align="left">
-  <a href="https://www.instagram.com/caiomota?igsh=NGo3emNzcDd4Ynl5&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/caio-mota-78983732a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="http://api.whatsapp.com/send?phone=5511987308581" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=55ce61&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+| Meus pais são Mineiros então sempre íamos visitar os parentes no interior e pra mim não havia nada melhor. O Agro é o que sustenta boa parte desse país, e eu tenho certeza que tem a muito a evoluir com a tecnologia. Agricultura de precisão e sustentabilidade são temas que me interessam e onde vejo muito potencial tecnológico para o futuro. | <img src="https://github.com/user-attachments/assets/110614c2-8ebb-4191-a491-9acb18941d79" width="1000"/> |
 
 ## 
 
